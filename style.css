@@ -138,6 +138,7 @@ color: var(--white-color);
     gap: var(--gap);
     min-height: 100vh;
     padding-top: 6rem;
+
 }
 
 .intro-text, .intro-img {
@@ -439,6 +440,12 @@ tfoot td, table th {
         display: none;
     }
     
+    .contact-grid {
+    display: flex;
+    flex-direction: column;
+    
+
+    }
     
 
 }
